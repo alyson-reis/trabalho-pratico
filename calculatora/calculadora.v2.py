@@ -16,3 +16,4 @@ while saida not in ('n', 'nao', 'não'):
     while saida not in ('s', 'n', 'sim', 'não', 'nao'):
         saida = input('Digite "S" para continuar ou digite "N" para saír. Deseja continuar? [S/N] ').strip().lower()
 
+fim()
