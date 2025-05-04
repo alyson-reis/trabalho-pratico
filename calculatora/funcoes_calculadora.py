@@ -24,3 +24,5 @@ def calculadora(n1, n2, op):
         return divisao(n1, n2)
     else:
         return 'Operação inválida'
+def encerramento():
+    print('Fim do processo')
