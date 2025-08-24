@@ -1,3 +1,3 @@
 # Trabalho da Faculdade
 
-*** Documentação do projeto em PDF ***
+***Documentação do projeto em PDF***
