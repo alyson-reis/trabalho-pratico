@@ -2,6 +2,8 @@
 
 ***Documentação do projeto em PDF***
 
+
+
 ## Tecnologias Utilizadas
 
-- Python
+**Python**
